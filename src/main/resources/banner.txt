@@ -1,0 +1,24 @@
+
+PPPPPPPPPPPPPPPPP   hhhhhhh                                                                            SSSSSSSSSSSSSSS hhhhhhh
+P::::::::::::::::P  h:::::h                                                                          SS:::::::::::::::Sh:::::h
+P::::::PPPPPP:::::P h:::::h                                                                         S:::::SSSSSS::::::Sh:::::h
+PP:::::P     P:::::Ph:::::h                                                                         S:::::S     SSSSSSSh:::::h
+  P::::P     P:::::P h::::h hhhhh          ooooooooooo   nnnn  nnnnnnnn        eeeeeeeeeeee         S:::::S             h::::h hhhhh          ooooooooooo   ppppp   ppppppppp
+  P::::P     P:::::P h::::hh:::::hhh     oo:::::::::::oo n:::nn::::::::nn    ee::::::::::::ee       S:::::S             h::::hh:::::hhh     oo:::::::::::oo p::::ppp:::::::::p
+  P::::PPPPPP:::::P  h::::::::::::::hh  o:::::::::::::::on::::::::::::::nn  e::::::eeeee:::::ee      S::::SSSS          h::::::::::::::hh  o:::::::::::::::op:::::::::::::::::p
+  P:::::::::::::PP   h:::::::hhh::::::h o:::::ooooo:::::onn:::::::::::::::ne::::::e     e:::::e       SS::::::SSSSS     h:::::::hhh::::::h o:::::ooooo:::::opp::::::ppppp::::::p
+  P::::PPPPPPPPP     h::::::h   h::::::ho::::o     o::::o  n:::::nnnn:::::ne:::::::eeeee::::::e         SSS::::::::SS   h::::::h   h::::::ho::::o     o::::o p:::::p     p:::::p
+  P::::P             h:::::h     h:::::ho::::o     o::::o  n::::n    n::::ne:::::::::::::::::e             SSSSSS::::S  h:::::h     h:::::ho::::o     o::::o p:::::p     p:::::p
+  P::::P             h:::::h     h:::::ho::::o     o::::o  n::::n    n::::ne::::::eeeeeeeeeee                   S:::::S h:::::h     h:::::ho::::o     o::::o p:::::p     p:::::p
+  P::::P             h:::::h     h:::::ho::::o     o::::o  n::::n    n::::ne:::::::e                            S:::::S h:::::h     h:::::ho::::o     o::::o p:::::p    p::::::p
+PP::::::PP           h:::::h     h:::::ho:::::ooooo:::::o  n::::n    n::::ne::::::::e               SSSSSSS     S:::::S h:::::h     h:::::ho:::::ooooo:::::o p:::::ppppp:::::::p
+P::::::::P           h:::::h     h:::::ho:::::::::::::::o  n::::n    n::::n e::::::::eeeeeeee       S::::::SSSSSS:::::S h:::::h     h:::::ho:::::::::::::::o p::::::::::::::::p
+P::::::::P           h:::::h     h:::::h oo:::::::::::oo   n::::n    n::::n  ee:::::::::::::e       S:::::::::::::::SS  h:::::h     h:::::h oo:::::::::::oo  p::::::::::::::pp
+PPPPPPPPPP           hhhhhhh     hhhhhhh   ooooooooooo     nnnnnn    nnnnnn    eeeeeeeeeeeeee        SSSSSSSSSSSSSSS    hhhhhhh     hhhhhhh   ooooooooooo    p::::::pppppppp
+                                                                                                                                                             p:::::p
+                                                                                                                                                             p:::::p
+                                                                                                                                                            p:::::::p
+                                                                                                                                                            p:::::::p
+                                                                                                                                                            p:::::::p
+                                                                                                                                                            ppppppppp
+:: Spring Boot :: ${spring-boot.formatted-version}
