@@ -1,1 +1,3 @@
-
+fonoapi:
+  url: https://fonoapi.freshpixl.com/v1/
+  token: a20df6e971da0fb5f7f1af348c85bb55a1d39250dec0f2a0
