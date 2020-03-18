@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://phone-shop-postgres/phoneshop
+    username: postgres
+    password: postgres
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQL95Dialect
+    hibernate:
+      ddl-auto: create

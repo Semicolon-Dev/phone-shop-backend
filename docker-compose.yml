@@ -1,0 +1,27 @@
+version: '3.1'
+services:
+  phone-shop:
+    image: phone-shop
+    container_name: phone-shop
+    ports:
+      - '8080:8080'
+    networks:
+      - phone-shop-network
+    depends_on:
+      - phone-shop-postgres
+
+  phone-shop-postgres:
+    image: postgres:9.6
+    container_name: phone-shop-postgres
+    ports:
+      - '5432:5432'
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: phoneshop
+    networks:
+      - phone-shop-network
+
+networks:
+  phone-shop-network:
+    driver: bridge
