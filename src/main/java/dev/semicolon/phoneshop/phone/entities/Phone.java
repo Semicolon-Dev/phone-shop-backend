@@ -7,7 +7,6 @@ import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
-import java.util.UUID;
 
 @Data
 @Entity
@@ -19,8 +18,6 @@ public class Phone {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
-    private UUID ref;
 
     @Column(nullable = false)
     private String name;
